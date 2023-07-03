@@ -1,0 +1,23 @@
+
+@media screen and (max-width: 1120px) {
+
+    .mainAbout {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .aboutStoreImg{
+        width: 100%;
+        text-align: center;
+        margin-left: 0px;
+    }
+
+    .aboutStore {
+        width: 100%;
+        text-align: center;
+        margin-top: 10%;
+    }
+
+
+    }
